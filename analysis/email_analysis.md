@@ -1,4 +1,4 @@
-Email: email11_phishing.txt
+Email: email1_phishing.txt
 
 Sender:
 Fake domain (paypaI-security.com uses "I" instead of "l")
@@ -18,7 +18,7 @@ User credentials may be stolen leading to account compromise
 
 --------------------------------------
 
-Email: email12_phishing.txt
+Email: email2_phishing.txt
 
 Sender:
 Fake domain (amaz0n-alerts.com uses "0" instead of "o")
@@ -38,7 +38,7 @@ User may enter login details on fake site
 
 --------------------------------------
 
-Email: email13_phishing.txt
+Email: email3_phishing.txt
 
 Sender:
 Suspicious domain (netflix-billing.com not official)
@@ -58,7 +58,7 @@ Financial information may be stolen
 
 --------------------------------------
 
-Email: email14_suspicious.txt
+Email: email4_suspicious.txt
 
 Sender:
 Unknown promotional domain
@@ -78,7 +78,7 @@ May redirect to malicious or scam website
 
 --------------------------------------
 
-Email: email15_suspicious.txt
+Email: email5_suspicious.txt
 
 Sender:
 Unknown Gmail address (not trusted source)
@@ -98,7 +98,7 @@ May contain malicious attachment or scam intent
 
 --------------------------------------
 
-Email: email16_safe.txt
+Email: email6_safe.txt
 
 Sender:
 Professional domain (techcompany.com)
@@ -118,7 +118,7 @@ No security risk identified
 
 --------------------------------------
 
-Email: email17_safe.txt
+Email: email7_safe.txt
 
 Sender:
 Trusted service (GitHub)
@@ -138,7 +138,7 @@ No risk, normal account activity alert
 
 --------------------------------------
 
-Email: email18_phishing.txt
+Email: email8_phishing.txt
 
 Sender:
 Fake banking domain (sbi-secure-login.com)

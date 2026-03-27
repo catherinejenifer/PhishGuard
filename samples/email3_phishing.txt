@@ -1,0 +1,14 @@
+From: noreply@netflix-billing.com
+To: user@gmail.com
+Subject: Payment Failed – Action Required
+
+Hi,
+
+We were unable to process your latest Netflix payment.
+Please update your billing information to continue your subscription.
+
+Update here:
+http://netflix-update-payment.com
+
+Thank you,
+Netflix Billing Team

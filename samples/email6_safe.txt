@@ -1,0 +1,11 @@
+From: hr@techcompany.com
+To: user@gmail.com
+Subject: Interview Schedule Confirmation
+
+Dear Candidate,
+
+We are pleased to invite you for an interview on Tuesday at 11 AM.
+Please confirm your availability.
+
+Best regards,
+HR Team

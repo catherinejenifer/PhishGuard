@@ -1,0 +1,14 @@
+From: security@amaz0n-alerts.com
+To: user@gmail.com
+Subject: Your Amazon Account Has Been Locked
+
+Dear User,
+
+Your Amazon account has been locked due to multiple failed login attempts.
+
+To unlock your account, please verify your details:
+http://amazon-account-recovery-secure.com
+
+If you do not verify within 12 hours, your account will be deleted.
+
+Amazon Support

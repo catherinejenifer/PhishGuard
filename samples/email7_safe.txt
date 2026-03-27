@@ -1,0 +1,13 @@
+From: no-reply@github.com
+To: user@gmail.com
+Subject: New Sign-in to Your Account
+
+Hi,
+
+We noticed a new sign-in to your GitHub account.
+If this was you, no further action is required.
+
+If not, please secure your account immediately.
+
+Thanks,
+GitHub Security

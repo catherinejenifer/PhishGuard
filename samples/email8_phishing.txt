@@ -1,0 +1,14 @@
+From: alert@sbi-secure-login.com
+To: user@gmail.com
+Subject: SBI Account Verification Required
+
+Dear Customer,
+
+Your SBI account will be temporarily blocked due to KYC issues.
+Please verify your account immediately:
+
+http://sbi-verification-login.com
+
+Failure to comply may result in account suspension.
+
+State Bank of India
